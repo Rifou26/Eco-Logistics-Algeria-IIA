@@ -9,8 +9,7 @@ Système intelligent d'optimisation logistique pour l'Algérie, combinant trois 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    FRONTEND (React + Vite)                       │
-│  ┌──────────────┐  ┌──────────────┐  ┌───────────.
-───┐          │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐          │
 │  │  Carte       │  │  Curseur α   │  │  Graphiques  │          │
 │  │  Algérie     │  │  (Coût/CO2)  │  │  Pareto      │          │
 │  └──────────────┘  └──────────────┘  └──────────────┘          │
@@ -157,7 +156,7 @@ projet_finale_raouf/
 │   │   ├── clustering.py        # Module A: K-Means
 │   │   ├── carbon_expert.py     # Module B: Système Expert
 │   │   ├── optimizer.py         # Module C: NSGA-II
-│   │   └── routing.py           # Routage OSRM
+│   │   ├── routing.py           # Routage OSRM
 │   └── requirements.txt
 │
 ├── frontend/
