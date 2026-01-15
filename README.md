@@ -211,7 +211,3 @@ Où α ∈ [0, 1] est le curseur de compromis :
 - α = 0 : Minimiser uniquement le CO2
 - α = 0.5 : Équilibre coût/écologie
 - α = 1 : Minimiser uniquement le coût
-
-## Licence
-
-MIT License
