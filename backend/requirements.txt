@@ -1,0 +1,23 @@
+# Eco-Logistics Algeria - Backend Dependencies
+
+# Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Machine Learning & Scientific Computing
+numpy==1.26.2
+pandas==2.1.3
+scikit-learn==1.3.2
+
+# Optimization - NSGA-II
+deap==1.4.1
+
+# Data Visualization (for backend charts)
+matplotlib==3.8.2
+
+# CORS for React frontend
+pydantic==2.5.2
+
+# Geospatial (optional, for future enhancements)
+geopy==2.4.1
